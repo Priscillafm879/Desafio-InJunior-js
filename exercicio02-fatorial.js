@@ -32,9 +32,7 @@ while (continuar === "S" || continuar === "s") {
     continuar !== "n"
   ) {
     alert("Resposta inválida! Digite S para sim ou N para não.");
-    continuar = prompt(
-      "Deseja calcular o fatorial de outro número? (S/N)"
-    );
+    continuar = prompt("Deseja calcular o fatorial de outro número? (S/N)");
   }
 }
 
