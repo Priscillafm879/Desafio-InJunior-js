@@ -1,4 +1,3 @@
-
 //Verificação de palíndromo
 
 // Entrada da frase
