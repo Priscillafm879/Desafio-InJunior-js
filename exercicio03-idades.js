@@ -21,10 +21,10 @@ function verificarIdades(anos) {
 
     if (idade >= 18) {
       resultado.push("maior");
-      console.log(`Pessoa ${i + 1}: Maior de idade`);
+      console.log(`Pessoa ${i + 1}: Maior de idade.`);
     } else {
       resultado.push("menor");
-      console.log(`Pessoa ${i + 1}: Menor de idade`);
+      console.log(`Pessoa ${i + 1}: Menor de idade.`);
     }
   }
 
