@@ -51,6 +51,6 @@ function countBooksInCategory(categories) {
   return resultado;
 }
 
-// Teste da função
+// Execução e exibição
 const contagem = countBooksInCategory(booksByCategory);
 console.log(contagem);
